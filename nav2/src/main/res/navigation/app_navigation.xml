@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/redFragment">
+
+    <fragment
+        android:id="@+id/redFragment"
+        android:name="com.wfamedia.myapplication.RedFragment"
+        android:label="Homescreen"
+        tools:layout="@layout/fragment_red">
+        <action
+            android:id="@+id/actionRedToBlue"
+            app:destination="@id/blueFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:launchSingleTop="true"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/blueFragment"
+        android:name="com.wfamedia.myapplication.BlueFragment"
+        android:label="fragment_blue"
+        tools:layout="@layout/fragment_blue" >
+        <action
+            android:id="@+id/actionBlueToLogin"
+            app:destination="@id/loginActivity" />
+        <argument
+            android:name="userName"
+            app:argType="string"
+            android:defaultValue="noname" />
+        <argument
+            android:name="userPhone"
+            app:argType="string"
+            android:defaultValue="0000000" />
+        <action
+            android:id="@+id/actionBlueToYellow"
+            app:destination="@id/yellowFragment"
+            app:launchSingleTop="true" />
+    </fragment>
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.wfamedia.myapplication.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/yellowFragment"
+        android:name="com.wfamedia.myapplication.YellowFragment"
+        android:label="fragment_yellow"
+        tools:layout="@layout/fragment_yellow" >
+        <action
+            android:id="@+id/actionYellowToBlue"
+            app:destination="@id/blueFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/blueFragment" />
+        <action
+            android:id="@+id/actionYellowToDialog"
+            app:destination="@id/myDialogFragment"
+            app:launchSingleTop="true" />
+    </fragment>
+
+    <dialog
+        android:id="@+id/myDialogFragment"
+        android:name="com.wfamedia.myapplication.MyDialogFragment">
+        <argument
+            android:name="dialogText"
+            app:argType="string"
+            android:defaultValue="Min dialog" />
+        <argument
+            android:name="dialogTitle"
+            app:argType="string"
+            android:defaultValue="dialogTitle" />
+    </dialog>
+    <action
+        android:id="@+id/actionBackToStart"
+        app:destination="@id/redFragment"
+        app:launchSingleTop="true"
+        app:popUpTo="@id/redFragment" />
+
+</navigation>

@@ -1,0 +1,8 @@
+dt/hin/no/MyBackgroundService.java
+ dt.hin.no.MyBackgroundService
+ dt.hin.no.MyBackgroundService$MyAsyncTask
+dt/hin/no/BuildConfig.java
+ dt.hin.no.BuildConfig
+dt/hin/no/MyServiceActivity.java
+ dt.hin.no.MyServiceActivity
+ dt.hin.no.MyServiceActivity$1

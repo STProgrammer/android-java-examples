@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bondesjakk</string>
+    <string name="action_play">Start</string>
+    <string name="action_stop">Stopp</string>
+    <string name="player_X">Spiller \n X</string>
+    <string name="player_O">Spiller \n O</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="reults">Resultat:</string>
+    <string name="winner_text">Resultat: vinneren er spiller </string>
+    <string name="time_used_X">\nTotal tidsbruk av spiller X: </string>
+    <string name="time_used_Y">\nTotal tidsbruk av spiller O: </string>
+    <string name="no_winner_text">Ingen vinnere! </string>
+    <string name="settings">Innstillinger </string>
+    <string name="settings_board_size">Sett størrelsen av brettet: </string>
+    <string name="rows">Antall rader: </string>
+    <string name="columns">Antall kolonner: </string>
+    <string name="settings_apply_button">Implementer (den vil restarte spillet) </string>
+    <string name="settings_cancel_button">Avbryt </string>
+    <string-array name="student_class">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seventh</item>
+    </string-array>
+</resources>

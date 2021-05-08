@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">@dimen/buttonMargin</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/buttonBorder</item>
+        <item name="android:textSize">@dimen/buttonTextSize</item>
+        <item name="android:background">@drawable/buttonshape</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

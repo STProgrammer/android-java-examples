@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/textViewLeaveRemainingDescription"
+    android:stretchColumns="0,1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow>
+        <LinearLayout
+            android:id="@+id/topLeft"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:background="@drawable/shape" >
+
+            <ImageView
+                android:id="@+id/imageFace"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ic_action_face" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/topRight"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:background="@drawable/shape" >
+
+            <ImageView
+                android:id="@+id/imageDropper"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ic_action_touch" />
+            <ImageView
+                android:id="@+id/imageBoat"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ic_action_boat" />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow>
+        <LinearLayout
+            android:id="@+id/bottomLeft"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:background="@drawable/shape" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bottomRight"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:background="@drawable/shape" >
+
+            <ImageView
+                android:id="@+id/imageScissors"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/ic_action_scissor" />
+        </LinearLayout>
+        </TableRow>
+</TableLayout>

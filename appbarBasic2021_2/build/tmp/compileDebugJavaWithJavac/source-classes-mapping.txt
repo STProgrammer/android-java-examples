@@ -1,0 +1,7 @@
+dt/hin/no/AddActivity.java
+ dt.hin.no.AddActivity
+ dt.hin.no.AddActivity$1
+dt/hin/no/MainActivity.java
+ dt.hin.no.MainActivity
+dt/hin/no/BuildConfig.java
+ dt.hin.no.BuildConfig

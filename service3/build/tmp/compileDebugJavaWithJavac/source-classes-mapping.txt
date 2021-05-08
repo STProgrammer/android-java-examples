@@ -1,0 +1,9 @@
+dt/hin/no/MyForegroundService.java
+ dt.hin.no.MyForegroundService
+ dt.hin.no.MyForegroundService$MyAsyncTask
+dt/hin/no/BuildConfig.java
+ dt.hin.no.BuildConfig
+dt/hin/no/MyActivity.java
+ dt.hin.no.MyActivity
+ dt.hin.no.MyActivity$1
+ dt.hin.no.MyActivity$MyResultReceiver

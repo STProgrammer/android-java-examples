@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvHello1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F08876"
+        android:text="Hello World 1!" />
+
+    <TextView
+        android:id="@+id/tvHello2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#9DF076"
+        android:text="Hello World 2!" />
+
+    <Button
+        android:id="@+id/buttonPush1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trykk her!"
+        android:layout_margin="10dp" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/mainFramgent"
+        android:name="com.wfamedia.viewbinding0.MainFragment"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="#444"/>
+</LinearLayout>

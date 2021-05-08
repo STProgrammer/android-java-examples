@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_other"
+        android:title="Start annen aktivitet"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_webBrowser"
+        android:title="Nettleser"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_WebSearch"
+        android:title="Websøk"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_dial"
+        android:title="Start ringeapp"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_call"
+        android:title="Ring direkte"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_showMap"
+        android:title="Vis kart"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_setAlarm"
+        android:title="Sett alarm"
+        app:showAsAction="never"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_myimplicit"
+        android:title="Start min aktivitet implisitt"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_end"
+        android:icon="@drawable/ic_action_quit"
+        android:title="@string/action_quit"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/actionShowAll"
+        android:icon="@drawable/ok_icon"
+        android:orderInCategory="96"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/actionShowAll"/>
+    
+    <item
+        android:id="@+id/actionRecycle"
+        android:icon="@drawable/recycle"
+        android:orderInCategory="97"
+        app:showAsAction="ifRoom"
+        android:title="@string/actionRecycle"/>
+     
+    <item
+        android:id="@+id/actionRefresh"
+        android:icon="@drawable/refresh"
+        android:orderInCategory="98"
+        app:showAsAction="ifRoom"
+        android:title="@string/actionRefresh"/>
+    
+     <item
+        android:id="@+id/actionHelp"
+        android:icon="@drawable/help"
+        android:orderInCategory="99"
+        app:showAsAction="always"
+        android:title="@string/actionHelp"/>
+     
+     <item
+        android:id="@+id/actionQuit"
+        android:icon="@drawable/close"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/actionQuit"/>
+  
+</menu>

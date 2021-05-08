@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Min preferansekategori nr 1" >
+
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="PREF_SHOW_ALL"
+            android:summary="Kryss av denne for å vise alle alternativer"
+            android:title="Vis alt og ingenting" >
+        </SwitchPreferenceCompat>
+        
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="PREF_SAVE_ON_EXIT"
+            android:summary="Kryss av denne for å lagre ved avslutning"
+            android:title="Lagre ved avslutning" >
+        </SwitchPreferenceCompat>
+
+        <EditTextPreference
+            android:defaultValue="..."
+            android:key="PREF_NAME"
+            android:summary="Her kan du skrive inn ditt navn."
+            android:title="Navn"
+            >
+        </EditTextPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Min preferansekategori nr 2" >
+
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="PREF_PLAY_SOUNDS"
+            android:summary="Kryss av denne for å spille av lyder ved diverse valg"
+            android:title="Spill av lyder" >
+        </SwitchPreferenceCompat>
+        
+    </PreferenceCategory>
+    
+</androidx.preference.PreferenceScreen>

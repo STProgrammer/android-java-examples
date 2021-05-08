@@ -1,0 +1,10 @@
+no/hin/dt/huskeliste1/MainActivity.java
+ no.hin.dt.huskeliste1.MainActivity
+ no.hin.dt.huskeliste1.MainActivity$1
+ no.hin.dt.huskeliste1.MainActivity$2
+no/hin/dt/huskeliste1/ToDoItemAdapter.java
+ no.hin.dt.huskeliste1.ToDoItemAdapter
+dt/hin/no/huskeliste1/BuildConfig.java
+ dt.hin.no.huskeliste1.BuildConfig
+no/hin/dt/huskeliste1/ToDoItem.java
+ no.hin.dt.huskeliste1.ToDoItem

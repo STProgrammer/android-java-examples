@@ -1,0 +1,734 @@
+[
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_cloud.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_help.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_rotate_right.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_accept.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_help.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_cloud.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_view_as_list.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_note_grey_96px.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\note_grey_96px.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_collapse.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_screen_rotation.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_screen_rotation.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_collapse.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_screen_rotation.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_screen_rotation.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_rotate_left.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_rotate_left.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_camera2.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_camera2.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_back.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bubble_32.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\bubble_32.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_inforull1.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\inforull1.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_edit.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_switch_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\layout_content_add.xml.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\layout\\content_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_back.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_view_as_list.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bubble.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\bubble.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_rotate_left.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_rotate_left.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_expand.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_crop.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_note_grey_48px.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\note_grey_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_note_grey_32px.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\note_grey_32px.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_switch_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_switch_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_view_as_list.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_back.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bubble.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\bubble.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_person_light.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_person_light.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_crop.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_rotate_right.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_view_as_grid.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_screen_rotation.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_screen_rotation.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ok_icon.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_crop.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_accept.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_expand.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_expand.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_accept.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_apidemo_androidlogo.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\apidemo_androidlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_edit.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_crop.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_rotate_right.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_preferences.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_collapse.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_camera2.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_camera2.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_back.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_metroui.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\metroui.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_upload.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recycle.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\recycle.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_camera2.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_camera2.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_collapse.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_picture.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_rotate_left.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_left.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_help.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_switch_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_person_light.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_person_light.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_accept.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_upload.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_help.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_view_as_grid.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ok_icon.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_view_as_grid.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_rotate_right.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brick_wall2small.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\brick_wall2small.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_send_now.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\menu_my_menu.xml.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\menu\\my_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_person_light.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_person_light.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_edit.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_view_as_list.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_close.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_note_grey_64px.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\note_grey_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_person_light.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_person_light.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_cloud.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_expand.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_edit.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_metroui.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\metroui.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_brick_wall2small.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\brick_wall2small.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_send_now.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_recycle.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-ldpi\\recycle.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_send_now.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_cloud.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_upload.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_send_now.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_screen_rotation.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_action_screen_rotation.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_rotate_left.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_rotate_left.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_upload.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_camera2.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_camera2.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icons8_calori_about_small.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\icons8_calori_about_small.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_view_as_grid.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-mdpi\\ic_action_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\drawable-hdpi\\ic_action_person.png"
+    }
+]

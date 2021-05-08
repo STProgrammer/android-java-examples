@@ -1,0 +1,10 @@
+no/uit/spinnertest1/MainActivity.java
+ no.uit.spinnertest1.MainActivity
+ no.uit.spinnertest1.MainActivity$1
+ no.uit.spinnertest1.MainActivity$2
+no/uit/spinnertest1/Book.java
+ no.uit.spinnertest1.Book
+no/uit/spinnertest1/BookAdapter.java
+ no.uit.spinnertest1.BookAdapter
+no/uit/spinnertest1/BuildConfig.java
+ no.uit.spinnertest1.BuildConfig

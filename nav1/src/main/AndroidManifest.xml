@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wfamedia.nav1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Android_v2021_del4">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Manuelt intent-filter -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:host="kark.uit.no"
+                    android:pathPrefix="/app"
+                    android:scheme="https" />
+            </intent-filter>
+
+            <!-- NB! Dette genererer i prinsippet et inten-filter som vist over -->
+            <nav-graph android:value="@navigation/app_navigation" />
+        </activity>
+
+        <activity android:name=".MainActivityNavDrawer">
+        </activity>
+    </application>
+
+</manifest>

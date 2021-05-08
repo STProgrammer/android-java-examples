@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CalculateTime" />
+            <option value="$PROJECT_DIR$/MyFirstApp" />
+            <option value="$PROJECT_DIR$/SQLite1" />
+            <option value="$PROJECT_DIR$/albumsforuser2021" />
+            <option value="$PROJECT_DIR$/albumsforuser2021httpurlcon" />
+            <option value="$PROJECT_DIR$/albumsforuser2021utvidet" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appClearTop" />
+            <option value="$PROJECT_DIR$/appbarBasic2021_2" />
+            <option value="$PROJECT_DIR$/appbartest1" />
+            <option value="$PROJECT_DIR$/bondesjakk" />
+            <option value="$PROJECT_DIR$/bottomnavigationdemo1" />
+            <option value="$PROJECT_DIR$/broadcastflightmodereceiver" />
+            <option value="$PROJECT_DIR$/broadcastnumberreceiver1" />
+            <option value="$PROJECT_DIR$/broadcastnumbersender1" />
+            <option value="$PROJECT_DIR$/customview1" />
+            <option value="$PROJECT_DIR$/datecalc" />
+            <option value="$PROJECT_DIR$/dialogTest" />
+            <option value="$PROJECT_DIR$/dptest0" />
+            <option value="$PROJECT_DIR$/dptest0_1" />
+            <option value="$PROJECT_DIR$/dptest1" />
+            <option value="$PROJECT_DIR$/dptest2" />
+            <option value="$PROJECT_DIR$/dptest3" />
+            <option value="$PROJECT_DIR$/dptest4" />
+            <option value="$PROJECT_DIR$/dptest5" />
+            <option value="$PROJECT_DIR$/draganddrop1" />
+            <option value="$PROJECT_DIR$/draganddrop2" />
+            <option value="$PROJECT_DIR$/dynamiskgrid" />
+            <option value="$PROJECT_DIR$/firebase1" />
+            <option value="$PROJECT_DIR$/fragment1_1" />
+            <option value="$PROJECT_DIR$/fragment2_1" />
+            <option value="$PROJECT_DIR$/fragment3_1" />
+            <option value="$PROJECT_DIR$/huskeliste1" />
+            <option value="$PROJECT_DIR$/huskeliste2" />
+            <option value="$PROJECT_DIR$/huskelisteKontekstMeny" />
+            <option value="$PROJECT_DIR$/instanceStateDemo" />
+            <option value="$PROJECT_DIR$/intent1" />
+            <option value="$PROJECT_DIR$/lab4_1_ViewPager" />
+            <option value="$PROJECT_DIR$/lab4_2_ViewModule" />
+            <option value="$PROJECT_DIR$/lab5_3" />
+            <option value="$PROJECT_DIR$/lab8_2_room_albums" />
+            <option value="$PROJECT_DIR$/lab9_2_firebase" />
+            <option value="$PROJECT_DIR$/lab_5_1_recyclerview_og_retrofit" />
+            <option value="$PROJECT_DIR$/lab_6_0" />
+            <option value="$PROJECT_DIR$/lifeCycleDemo" />
+            <option value="$PROJECT_DIR$/livedata1" />
+            <option value="$PROJECT_DIR$/location1" />
+            <option value="$PROJECT_DIR$/location2" />
+            <option value="$PROJECT_DIR$/location3" />
+            <option value="$PROJECT_DIR$/location4" />
+            <option value="$PROJECT_DIR$/myPreferenceTest1" />
+            <option value="$PROJECT_DIR$/mySimplePreferenceTest1" />
+            <option value="$PROJECT_DIR$/myasynctask1" />
+            <option value="$PROJECT_DIR$/nav1" />
+            <option value="$PROJECT_DIR$/nav2" />
+            <option value="$PROJECT_DIR$/navigationdrawerdemo1" />
+            <option value="$PROJECT_DIR$/oblig3triviaquiz" />
+            <option value="$PROJECT_DIR$/oblig4" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo1" />
+            <option value="$PROJECT_DIR$/retrofithttpgson1" />
+            <option value="$PROJECT_DIR$/retrofithttpgson2" />
+            <option value="$PROJECT_DIR$/roomusers2021" />
+            <option value="$PROJECT_DIR$/roomusers2021_2" />
+            <option value="$PROJECT_DIR$/roomusers2021_tillegg" />
+            <option value="$PROJECT_DIR$/roomusers2021_tillegg2" />
+            <option value="$PROJECT_DIR$/roomusers2021_tillegg_2" />
+            <option value="$PROJECT_DIR$/roomwordsample" />
+            <option value="$PROJECT_DIR$/service1" />
+            <option value="$PROJECT_DIR$/service2" />
+            <option value="$PROJECT_DIR$/service3" />
+            <option value="$PROJECT_DIR$/service4" />
+            <option value="$PROJECT_DIR$/simplefile2" />
+            <option value="$PROJECT_DIR$/spinnertest1" />
+            <option value="$PROJECT_DIR$/testt" />
+            <option value="$PROJECT_DIR$/testtt" />
+            <option value="$PROJECT_DIR$/tictactoetest" />
+            <option value="$PROJECT_DIR$/towerofhanoi" />
+            <option value="$PROJECT_DIR$/viewbinding0" />
+            <option value="$PROJECT_DIR$/viewpager2utstyr0" />
+            <option value="$PROJECT_DIR$/worker_threads1" />
+            <option value="$PROJECT_DIR$/worker_treads_threadpool1" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

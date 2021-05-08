@@ -1,0 +1,8 @@
+dt/hin/no/MyJobIntentService.java
+ dt.hin.no.MyJobIntentService
+ dt.hin.no.MyJobIntentService$1
+dt/hin/no/BuildConfig.java
+ dt.hin.no.BuildConfig
+dt/hin/no/MyActivity.java
+ dt.hin.no.MyActivity
+ dt.hin.no.MyActivity$1

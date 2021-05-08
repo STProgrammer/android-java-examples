@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="105"
+        android:title="@string/settings"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_play"
+        android:icon="@drawable/ic_outline_play_circle_40"
+        android:orderInCategory="106"
+        android:title="@string/action_play"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_stop"
+        android:icon="@drawable/ic_round_stop_circle_40"
+        android:orderInCategory="107"
+        android:title="@string/action_stop"
+        app:showAsAction="always" />
+
+</menu>

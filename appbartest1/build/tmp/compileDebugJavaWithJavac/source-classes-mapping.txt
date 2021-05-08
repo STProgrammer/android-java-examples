@@ -1,0 +1,5 @@
+no/uit/appbartest1/BuildConfig.java
+ no.uit.appbartest1.BuildConfig
+no/uit/appbartest1/MainActivity.java
+ no.uit.appbartest1.MainActivity
+ no.uit.appbartest1.MainActivity$1

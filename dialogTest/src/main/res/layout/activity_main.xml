@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="no.hin.dt.dialogtest.activities.MainActivity"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/btnAlert1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnAlertFinish"
+        android:text="Avslutt? (AlertDialog)" />
+
+    <Button
+        android:id="@+id/btnDialogFragmen1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnDialogFragment1"
+        android:text="DialogFragment1 (vha. AlertDialog)" />
+
+    <Button
+        android:id="@+id/btnDialogFragmen2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnDialogFragment2"
+        android:text="DialogFragment2 (vha. egen layout)" />
+
+    <Button
+        android:id="@+id/btnDatePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnDateFragmentDialog"
+        android:text="Velg dato (DatePickerDialog)" />
+
+    <Button
+        android:id="@+id/btnYesNoDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnYesNoDialog"
+        android:text="Ja-Nei-dialog (vha. DialogFragment)" />
+
+    <Button
+        android:id="@+id/btnShowDialogActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBtnShowDialogActivity"
+        android:text="Vis DialogActivity (styla Activity)" />
+</LinearLayout>

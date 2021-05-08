@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/login"
+        android:title="Innlogging"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:id="@+id/coronastatus"
+        android:title="Smittestatus"
+        android:icon="@drawable/ic_baseline_coronavirus_24"/>
+    <item
+        android:id="@+id/bloodtype"
+        android:title="Coronatest"
+        android:icon="@drawable/ic_baseline_bloodtype_24"/>
+
+    <item
+        android:id="@+id/pestcontrol"
+        android:title="Pestkontroll"
+        android:icon="@drawable/ic_baseline_pest_control_24"/>
+
+    <item
+        android:id="@+id/pool"
+        android:title="Svømming er bra"
+        android:icon="@drawable/ic_baseline_pool_24"/>
+    <item
+        android:id="@+id/quit"
+        android:title="Avslutt"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+</menu>

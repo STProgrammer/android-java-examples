@@ -1,0 +1,7 @@
+no/uit/huskeliste1/MainActivity.java
+ no.uit.huskeliste1.MainActivity
+ no.uit.huskeliste1.MainActivity$1
+ no.uit.huskeliste1.MainActivity$2
+ no.uit.huskeliste1.MainActivity$3
+no/uit/huskeliste1/BuildConfig.java
+ no.uit.huskeliste1.BuildConfig

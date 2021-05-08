@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395534639529",
+    "project_id": "fir-1-8ae20",
+    "storage_bucket": "fir-1-8ae20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395534639529:android:f7a6420fcc9c8f2f46a4b8",
+        "android_client_info": {
+          "package_name": "com.wfamedia.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395534639529-iss2ekkfi2580716fqm0ug0qlmept9at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cU8DFQwhvMEaHbst9TZDNeTbwsQVXbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395534639529-iss2ekkfi2580716fqm0ug0qlmept9at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

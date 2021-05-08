@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">22dp</dimen>
+    <dimen name="tower_width">120dp</dimen>
+    <dimen name="tower_height">160dp</dimen>
+</resources>

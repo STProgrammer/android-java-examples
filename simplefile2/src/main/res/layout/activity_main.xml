@@ -1,0 +1,85 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context="dt.uit.no.MainActivity">
+        <LinearLayout
+            android:id="@+id/linLayPublic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/public_background"
+            android:orientation="vertical"
+            >
+
+            <EditText
+                android:id="@+id/etInternalInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tekst som skrives til intern fil ..."
+                />
+
+            <TextView
+                android:id="@+id/tvInternalFileDir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="3"
+                android:layout_margin="10dp"
+                android:text=""
+                />
+
+            <Button
+                android:id="@+id/btnWriteInternalFile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="doWriteInternalFile"
+                android:text="Skriv til privat fil"
+                />
+            <Button
+                android:id="@+id/btnReadInternalFile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="doReadInternalFile"
+                android:text="Les fra privat fil"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Filinnhold:"
+                />
+            <TextView
+                android:id="@+id/tvOutput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:background="@drawable/rounded_corner"
+                android:padding="4dp"
+                android:lines="5"
+                android:text=""
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="doClear"
+                android:text="Clear" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

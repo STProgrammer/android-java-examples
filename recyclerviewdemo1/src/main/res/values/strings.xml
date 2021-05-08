@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo1</string>
+    <string name="intro_message">
+        <![CDATA[
+            Demonstrasjon av RecyclerView.
+            RecyclerView-et viser en liste med String-objekter
+            og ligger i et fragment, ContainerFragment under.
+
+        ]]>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

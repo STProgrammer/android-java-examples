@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/show_info"
+        android:icon="@drawable/ic_outline_info_24"
+        android:orderInCategory="102"
+        android:title="@string/show_info"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_outline_settings_24"
+        android:orderInCategory="103"
+        android:title="@string/settings_button"
+        app:showAsAction="always" />
+</menu>

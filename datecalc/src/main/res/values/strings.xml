@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dateCalc</string>
+    <string name="str_calc_button">Beregn antall dager</string>
+</resources>

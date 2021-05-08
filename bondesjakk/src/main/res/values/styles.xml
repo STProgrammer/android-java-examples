@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="board_cell">
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="layout_columnWeight">1</item>
+        <item name="layout_rowWeight">1</item>s
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:freezesText">true</item>
+    </style>
+    <style name="player_cell">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/player_cell_green</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:height">100dp</item>
+        <item name="android:width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_width">100dp</item>
+    </style>
+    <style name="text">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:freezesText">true</item>
+    </style>
+    <style name="bigText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+
+</resources>

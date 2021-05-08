@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent" >
+
+    <PreferenceCategory android:title="Min preferansekategori nr 1" >
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="PREF_SHOW_ALL"
+            android:summary="Kryss av denne for å vise alle alternativer"
+            android:title="Vis alt og ingenting" >
+        </CheckBoxPreference>
+        
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="PREF_SAVE_ON_EXIT"
+            android:summary="Kryss av denne for å lagre ved avslutning"
+            android:title="Lagre ved avslutning" >
+        </CheckBoxPreference>
+        
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Min preferansekategori nr 2" >
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="PREF_PLAY_SOUNDS"
+            android:summary="Kryss av denne for å spille av lyder ved diverse valg"
+            android:title="Spill av lyder" >
+        </CheckBoxPreference>
+        
+    </PreferenceCategory>
+    
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BC-Receiver</string>
+    <string name="wait_string">Venter på kringkasting!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_vis">Melding fra sender</string>
+    <string name="title_activity_main">Venter...</string>
+
+</resources>

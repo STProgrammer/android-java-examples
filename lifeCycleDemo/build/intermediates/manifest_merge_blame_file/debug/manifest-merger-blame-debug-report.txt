@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="no.hin.dt.lifecycledemo1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:6:5-30:19
+12        android:allowBackup="true"
+12-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.0] C:\Users\abdka\.gradle\caches\transforms-2\files-2.1\186585992c7ad4b90a5b0947c639ddd2\core-1.0.0\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:fullBackupContent="true"
+15-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:12:9-41
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:9:9-41
+18        android:supportsRtl="true"
+18-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/Theme.AppTheme.Light.NoActionBar.Wfa" >
+19-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:11:9-68
+20        <activity android:name="no.hin.dt.lifecycledemo1.MainActivity" >
+20-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:15:9-20:20
+20-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:15:19-47
+21            <intent-filter>
+21-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:16:13-19:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:17:17-69
+22-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:17:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:18:17-77
+24-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:18:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:22:9-28:20
+28            android:name="no.hin.dt.lifecycledemo1.OtherActivity"
+28-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:22:19-48
+29            android:parentActivityName="no.hin.dt.lifecycledemo1.MainActivity" >
+29-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:23:13-55
+30
+31            <!-- The meta-data element is needed for versions lower than 4.1 -->
+32            <meta-data
+32-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:25:13-27:49
+33                android:name="android.support.PARENT_ACTIVITY"
+33-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:26:17-63
+34                android:value=".MainActivity" />
+34-->C:\Users\abdka\AndroidStudioProjects\InputProsjekt\lifeCycleDemo\src\main\AndroidManifest.xml:27:17-46
+35        </activity>
+36    </application>
+37
+38</manifest>

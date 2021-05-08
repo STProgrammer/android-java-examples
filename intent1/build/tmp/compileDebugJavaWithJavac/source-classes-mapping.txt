@@ -1,0 +1,11 @@
+no/uit/dt/intent1/BuildConfig.java
+ no.uit.dt.intent1.BuildConfig
+no/uit/dt/intent1/IntentsUtils.java
+ no.uit.dt.intent1.IntentsUtils
+no/uit/dt/intent1/MyImplicitActivity.java
+ no.uit.dt.intent1.MyImplicitActivity
+no/uit/dt/intent1/MainActivity.java
+ no.uit.dt.intent1.MainActivity
+no/uit/dt/intent1/MyOtherActivity.java
+ no.uit.dt.intent1.MyOtherActivity
+ no.uit.dt.intent1.MyOtherActivity$1

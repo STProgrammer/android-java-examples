@@ -1,0 +1,36 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+        <EditTextPreference
+            app:key="amount"
+            app:title="@string/nr_of_questions"
+            app:useSimpleSummaryProvider="true"
+            />
+
+        <ListPreference
+            app:defaultValue="Any Category"
+            app:entries="@array/category_entries"
+            app:entryValues="@array/category_values"
+            app:key="category"
+            app:title="@string/category_settings"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="Any Difficulty"
+            app:entries="@array/difficulty_entries"
+            app:entryValues="@array/difficulty_values"
+            app:key="difficulty"
+            app:title="@string/difficulty_settings"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="Any Type"
+            app:entries="@array/type_entries"
+            app:entryValues="@array/type_values"
+            app:key="questionTypes"
+            app:title="@string/type_settings"
+            app:useSimpleSummaryProvider="true" />
+
+</PreferenceScreen>

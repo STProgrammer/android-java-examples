@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fragment1backcolor">#ff968eff</color>
+    <color name="fragment2backcolor">#ffeeddaa</color>
+    <color name="myred">#ffee2462</color>
+    <color name="mygreen">#03C42F</color>
+    <color name="myblue">#ff1b2dee</color>
+    <color name="myblack">#ff000000</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary">
+        <item
+            android:id="@id/redFragment"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/app_name" />
+        <item
+            android:id="@id/blueFragment"
+            android:icon="@drawable/ic_play_blue"
+            android:title="Blue fragment" />
+
+    </group>
+    <item
+        android:id="@+id/yellowFragment"
+        android:icon="@drawable/ic_play_yellow"
+        android:title="Yellow fragment" />
+</menu>

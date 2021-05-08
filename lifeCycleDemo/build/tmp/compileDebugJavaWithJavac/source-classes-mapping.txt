@@ -1,0 +1,6 @@
+no/hin/dt/lifecycledemo1/OtherActivity.java
+ no.hin.dt.lifecycledemo1.OtherActivity
+no/hin/dt/lifecycledemo1/BuildConfig.java
+ no.hin.dt.lifecycledemo1.BuildConfig
+no/hin/dt/lifecycledemo1/MainActivity.java
+ no.hin.dt.lifecycledemo1.MainActivity

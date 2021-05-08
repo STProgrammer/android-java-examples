@@ -1,0 +1,9 @@
+no/uit/huskeliste1/MainActivity.java
+ no.uit.huskeliste1.MainActivity
+ no.uit.huskeliste1.MainActivity$1
+no/uit/huskeliste1/BuildConfig.java
+ no.uit.huskeliste1.BuildConfig
+no/uit/huskeliste1/ToDoItemAdapter.java
+ no.uit.huskeliste1.ToDoItemAdapter
+no/uit/huskeliste1/ToDoItem.java
+ no.uit.huskeliste1.ToDoItem

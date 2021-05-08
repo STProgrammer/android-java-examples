@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.wfamedia.nav1.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/actionMainToUsers"
+            app:destination="@id/usersFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out" />
+        <action
+            android:id="@+id/action_mainFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/usersFragment"
+        android:name="com.wfamedia.nav1.UsersFragment"
+        android:label="fragment_users"
+        tools:layout="@layout/fragment_users">
+        <argument
+            android:name="sessionId"
+            android:defaultValue="null"
+            app:argType="string" />
+        <deepLink
+            android:id="@+id/deepLink"
+            app:uri="kark.uit.no/deeplink/{number}" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.wfamedia.nav1.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

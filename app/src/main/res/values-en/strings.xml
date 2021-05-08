@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InputProject</string>
+    <string name="dagens_dato">Current date: </string>
+</resources>

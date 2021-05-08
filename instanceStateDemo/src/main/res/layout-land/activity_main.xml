@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linLayTimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnStart"
+            android:text="Start timer"
+            android:layout_width="120dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:onClick="startTimer"
+            />
+        <Button
+            android:id="@+id/btnStop"
+            android:text="Stop timer"
+            android:layout_width="120dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:onClick="stopTimer"
+            />
+        <TextView
+            android:id="@+id/tvElapsedTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:text="0" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linLayCounter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/linLayTimer"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnCountUp"
+            android:text="@string/str_teller_opp"
+            android:layout_width="120dp"
+            android:layout_marginEnd="5dp"
+            android:layout_height="wrap_content"
+            />
+
+        <Button
+            android:id="@+id/btnCountDown"
+            android:text="@string/str_teller_ned"
+            android:layout_width="120dp"
+            android:layout_marginEnd="5dp"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            android:id="@+id/tvCounter"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:text="@string/str_tv_counter" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

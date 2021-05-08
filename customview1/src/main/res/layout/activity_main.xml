@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context=".MainActivity">
+
+    <dt.hin.no.customview1.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hei på deg!"
+        android:textSize="22sp"
+        />
+
+    <dt.hin.no.customview1.MyCompoundView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <dt.hin.no.customview1.SingleTouchEventView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@color/my_yellow"
+        />
+</LinearLayout>

@@ -1,0 +1,15 @@
+dt/uit/no/db/ContactTable.java
+ dt.uit.no.db.ContactTable
+dt/uit/no/activities/MainActivity.java
+ dt.uit.no.activities.MainActivity
+dt/uit/no/entities/Contact.java
+ dt.uit.no.entities.Contact
+dt/hin/no/BuildConfig.java
+ dt.hin.no.BuildConfig
+dt/uit/no/fragments/ContactListFragment.java
+ dt.uit.no.fragments.ContactListFragment
+ dt.uit.no.fragments.ContactListFragment$1
+dt/uit/no/db/ContactDataSource.java
+ dt.uit.no.db.ContactDataSource
+dt/uit/no/db/MySQLiteHelper.java
+ dt.uit.no.db.MySQLiteHelper

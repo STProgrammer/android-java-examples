@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tower of Hanoi</string>
+    <string name="header_text">Hvor mange klarer du å flytte ringene fra tårn 1 til tårn 3? Velg antall ringer.</string>
+    <string name="nr_of_rings">Antall ringer: </string>
+    <string name="start">Start</string>
+    <string name="moves">Antall flytt: </string>
+    <string name="seconds">Sekunder: </string>
+</resources>

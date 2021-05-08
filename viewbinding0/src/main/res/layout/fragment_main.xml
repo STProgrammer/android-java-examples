@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#F0F"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:text="... FRAGMENT ..." />
+    <TextView
+        android:id="@+id/tvFragHello1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:background="#00F890"
+        android:textColor="#F0F"
+        android:text="Hello blank fragment 1!" />
+
+    <TextView
+        android:id="@+id/tvFragHello2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:background="#000090"
+        android:textColor="#F0F"
+        android:text="Hello blank fragment 2!" />
+
+    <TextView
+        android:id="@+id/tvFragHello3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:background="#009890"
+        android:textColor="#F0F"
+        android:text="Hello blank fragment 3!" />
+
+</LinearLayout>

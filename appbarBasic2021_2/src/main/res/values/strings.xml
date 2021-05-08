@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu basics</string>
+    <string name="actionShowAll">Vis alle</string>
+    <string name="actionRecycle">Slett/fjern</string>
+    <string name="actionRefresh">Oppfrisk</string>
+    <string name="actionQuit">Avslutt</string>
+    <string name="actionHelp">Hjelp</string>
+
+    <string-array name="mine_menyvalg">
+        <item>Liste</item>
+        <item>Kart</item>
+    </string-array>
+    <string name="title_activity_child">ChildActivity</string>
+
+</resources>

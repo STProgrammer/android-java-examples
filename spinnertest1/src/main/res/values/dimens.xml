@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_item_spinner_image_width">45dp</dimen>
+    <dimen name="book_item_spinner_image_height">45dp</dimen>
+</resources>

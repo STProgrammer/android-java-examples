@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/settings_board_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/settings_board_size"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvRows"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rows" />
+
+    <Spinner
+        android:id="@+id/spRows"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/size" />
+
+    <TextView
+        android:id="@+id/tvColumns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/columns" />
+
+    <Spinner
+        android:id="@+id/spColumns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/size" />
+
+
+</LinearLayout>
